@@ -4,15 +4,15 @@ Welcome to the High Performance Computing (HPC) Lab repository! This repository 
 
 ## Practical List
 
-1. [Matrix Multiplication Performance Analysis](#matrix_multiplication_time)
-2. [Parallel "Hello World" with MPI](#hello-world-mpi)
-3. [Quick Sort with MPI](#quick-sort-mpi)
-4. [Multithreaded Fibonacci Series with pThreads](#fibonacci-pthreads)
-5. [Process Synchronization with Mutex Locks using pThreads](#mutex-locks-pthread)
-6. [Hello World with OpenMP](#hello-world-omp)
-7. [Multitasking with OpenMP](#multitask-omp)
-8. [Parallel Calculation of PI/Area of Circle with OpenMP](#pi-omp)
-9. [OpenMP Loop Scheduling Demonstrations](#loop-scheduling-omp)
+1. Matrix Multiplication Performance Analysis
+2. Parallel "Hello World" with MPI
+3. Quick Sort with MPI
+4. Multithreaded Fibonacci Series with pThreads
+5. Process Synchronization with Mutex Locks using pThreads
+6. Hello World with OpenMP
+7. Multitasking with OpenMP
+8. Parallel Calculation of PI/Area of Circle with OpenMP
+9. OpenMP Loop Scheduling Demonstrations
 
 ### How to Compile and Run Code
 
