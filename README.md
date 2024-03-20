@@ -4,15 +4,15 @@ Welcome to the High Performance Computing (HPC) Lab repository! This repository 
 
 ## Practical List
 
-1. [Matrix Multiplication Performance Analysis](#matrix-multiplication-performance-analysis)
-2. [Parallel "Hello World" with MPI](#parallel-hello-world-with-mpi)
-3. [Quick Sort with MPI](#quick-sort-with-mpi)
-4. [Multithreaded Fibonacci Series with pThreads](#multithreaded-fibonacci-series-with-pthreads)
-5. [Process Synchronization with Mutex Locks using pThreads](#process-synchronization-with-mutex-locks-using-pthreads)
-6. [Hello World with OpenMP](#hello-world-with-openmp)
-7. [Multitasking with OpenMP](#multitasking-with-openmp)
-8. [Parallel Calculation of PI/Area of Circle with OpenMP](#parallel-calculation-of-piarea-of-circle-with-openmp)
-9. [OpenMP Loop Scheduling Demonstrations](#openmp-loop-scheduling-demonstrations)
+1. [Matrix Multiplication Performance Analysis](#matrix_multiplication_time)
+2. [Parallel "Hello World" with MPI](#hello-world-mpi)
+3. [Quick Sort with MPI](#quick-sort-mpi)
+4. [Multithreaded Fibonacci Series with pThreads](#fibonacci-pthreads)
+5. [Process Synchronization with Mutex Locks using pThreads](#mutex-locks-pthread)
+6. [Hello World with OpenMP](#hello-world-omp)
+7. [Multitasking with OpenMP](#multitask-omp)
+8. [Parallel Calculation of PI/Area of Circle with OpenMP](#pi-omp)
+9. [OpenMP Loop Scheduling Demonstrations](#loop-scheduling-omp)
 
 ### How to Compile and Run Code
 
